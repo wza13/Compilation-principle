@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a00b3c-b6fb-496d-ab75-d3c710756ced" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="311" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="编译原理实验" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RvLy6OQVRb9S5COo7k9iw92bUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/reactUI" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\工作\programs\2019 编译原理实验\src\reactUI" />
+      <recent name="D:\工作\programs\2019 编译原理实验\src" />
+      <recent name="D:\工作\programs\2019 编译原理实验\src\课程设计" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="extend" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.httpServer">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验三_LR1分析法.Main" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验三_LR1分析法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验一___词法分析设计.Main" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验一___词法分析设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文件处理" type="Application" factoryName="应用程序" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二___LL1分析法.文件处理" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二___LL1分析法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client" />
+      <module name="2019 编译原理实验" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="httpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课程设计.httpServer" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课程设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课程设计.main" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课程设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.httpServer" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1570542873235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570542873235</updated>
+      <workItem from="1591176369395" duration="211000" />
+      <workItem from="1591538846651" duration="338000" />
+      <workItem from="1592237847600" duration="20000" />
+      <workItem from="1592809642496" duration="305000" />
+      <workItem from="1598232161868" duration="3511000" />
+      <workItem from="1598242037312" duration="1514000" />
+      <workItem from="1598249112840" duration="2513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592237864202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592237864202" />
+    <state x="811" y="297" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1598233508081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="297" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598233508081" />
+    <state x="740" y="218" key="FileChooserDialogImpl" timestamp="1591176551892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591176551892" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598252201391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598252201378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201378" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598252201362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201362" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598252201391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598252201404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201404" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598252201391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598252201391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598252201392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201392" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1598233651343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598233651343" />
+    <state x="330" y="129" key="new project wizard" timestamp="1592809947331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592809947331" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$main.ic" NAME="main Coverage Results" MODIFIED="1581302326644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>课程设计.*</FILTER>
+    </SUITE>
+  </component>
+</project>

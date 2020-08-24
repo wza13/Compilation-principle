@@ -1,0 +1,7 @@
+###
+get http://localhost:8086/postApi
+
+###
+POST http://localhost:8086/postApi
+
+1+2*8-9
