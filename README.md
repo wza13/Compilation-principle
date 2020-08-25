@@ -2,9 +2,9 @@
 HFUT 编译原理
 ## 三次实验和一次课设
 ## 实验用Swing构建界面，课设使用React+Echart
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C1.PNG)
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C2.PNG)
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C3.PNG)
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E8%AF%BE%E8%AE%BE.PNG)
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E8%AF%BE%E8%AE%BE2.PNG)
-![image](https://github.com/DriverLin/Compilation-principle/blob/master/%E6%88%AA%E5%9B%BE/%E8%AF%BE%E8%AE%BE3.PNG)
+![实验1](picture\ts1.PNG)
+![实验2](picture\ts2.PNG)
+![实验3](picture\ts3.PNG)
+![课设1](picture\des.PNG)
+![课设2](picture\des2.PNG)
+![课设3](picture\des3.PNG)
