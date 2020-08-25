@@ -8,6 +8,7 @@ import com.sun.net.httpserver.HttpServer;
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.URI;
+import java.net.URISyntaxException;
 
 public class httpServer {
     private static treeBuilder tb = new treeBuilder();
@@ -23,6 +24,13 @@ public class httpServer {
             File root = new File("reactUI");
             String response = "File not exist";
             URI requestUri =  exchange.getRequestURI();
+            if(requestUri.toString().equals("/")){
+                try {
+                    requestUri = new URI("/index.html");
+                } catch (URISyntaxException e) {
+                    e.printStackTrace();
+                }
+            }
             File requestFile = new File(root+requestUri.toString());
             System.out.println(requestFile);
             byte[] bt;

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08a00b3c-b6fb-496d-ab75-d3c710756ced" name="默认的" comment="" />
+    <list default="true" id="08a00b3c-b6fb-496d-ab75-d3c710756ced" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$postApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$postApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/课程设计/LR1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/课程设计/LR1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/课程设计/httpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/课程设计/httpServer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RvLy6OQVRb9S5COo7k9iw92bUK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
@@ -51,7 +63,7 @@
       <command value="extend" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.httpServer">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="实验三_LR1分析法.Main" />
       <module name="2019 编译原理实验" />
@@ -71,6 +83,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="实验一___词法分析设计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验二___LL1分析法.Main" />
+      <module name="2019 编译原理实验" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验二___LL1分析法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="课程设计.main" />
-      <module name="2019 编译原理实验" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="课程设计.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.httpServer" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.client" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.httpServer" />
+        <item itemvalue="Application.client" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +174,7 @@
       <workItem from="1598232161868" duration="3511000" />
       <workItem from="1598242037312" duration="1514000" />
       <workItem from="1598249112840" duration="2513000" />
+      <workItem from="1598315282668" duration="1851000" />
     </task>
     <servers />
   </component>
@@ -181,38 +194,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591176551892" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598252201391">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598252201378">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598317138579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201378" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598252201362">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598317138579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201362" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598252201391">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598252201404">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201404" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598252201391">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598252201391">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201391" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598252201392">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598252201392" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1598233651343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

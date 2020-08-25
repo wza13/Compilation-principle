@@ -312,7 +312,7 @@ class LR1 {
         return new projectSet();
     }
     private void setActionAndGOTOTable(){
-        for (projectSet projectSet : cProjectSets) {
+            for (projectSet projectSet : cProjectSets) {
             for (project project : projectSet.getSet()) {
                 String a = project.getFirstSymbolAfterNode();
                 if(terminal.contains(a)){//项目 [A->...•a...,b] a是终结符
