@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a00b3c-b6fb-496d-ab75-d3c710756ced" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$postApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer$postApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2019 编译原理实验/课程设计/httpServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/课程设计/LR1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/课程设计/LR1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/课程设计/httpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/课程设计/httpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/课程设计/GUI/z_lineX300" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/课程设计/z_lineX1200" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +28,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RvLy6OQVRb9S5COo7k9iw92bUK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,7 +63,7 @@
       <command value="extend" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.httpServer">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="实验三_LR1分析法.Main" />
       <module name="2019 编译原理实验" />
@@ -138,10 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.httpServer" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.httpServer" />
         <item itemvalue="Application.client" />
       </list>
     </recent_temporary>
@@ -175,11 +175,16 @@
       <workItem from="1598242037312" duration="1514000" />
       <workItem from="1598249112840" duration="2513000" />
       <workItem from="1598315282668" duration="1851000" />
+      <workItem from="1598690773364" duration="2840000" />
+      <workItem from="1599310942207" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592237864202">
@@ -194,22 +199,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591176551892" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598317138580">
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom" timestamp="1598697059695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598317138579">
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598697059695" />
+    <state width="1877" height="882" key="GridCell.Tab.0.center" timestamp="1598697059695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138579" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598317138579">
+    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598697059695" />
+    <state width="1877" height="882" key="GridCell.Tab.0.left" timestamp="1598697059695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138579" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598317138580">
+    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598697059695" />
+    <state width="1877" height="882" key="GridCell.Tab.0.right" timestamp="1598697059695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598317138580" />
+    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598697059695" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598317138580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
